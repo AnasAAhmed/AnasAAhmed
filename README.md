@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Anas 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🚀 &nbsp; Passionate Full-Stack Developer building modern web apps with **Next.js, React, and Node.js**.  
-- 🎓 &nbsp; Currently pursuing **B.Com Part 1** at Karachi University while working on advanced development projects.  
+- 🎓 &nbsp; Currently expanding my expertise in Agentic AI, Metaverse and Web 3.0.
 - 💡 &nbsp; Exploring **system design, SSR streaming, real-time apps, and scalable eCommerce solutions**.  
-- 🌱 &nbsp; Constantly learning **cloud integrations, advanced caching, and AI-powered tools**.  
+- 🌱 &nbsp; Constantly learning **cloud integrations, advanced caching, CDNs, and AI-powered tools**.  
 - 🎨 &nbsp; Enjoy experimenting with UI/UX and building sleek, fast-loading applications.  
 
 ---
@@ -17,8 +15,12 @@
 - 💻 &nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=00599C)
+  ![AI Agents](https://img.shields.io/badge/-AI_Agents-333333?style=flat&logo=python&logoColor=00599C)
+  ![Google/Generative AI SDK](https://img.shields.io/badge/-Google/Generative_AI_SDK-333333?style=flat&logo=python&logoColor=00599C)
+  ![Open AI Agents SDK](https://img.shields.io/badge/-Open_AI_Agents_SDK-333333?style=flat&logo=python&logoColor=00599C)
 - 🌐 &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -72,23 +74,11 @@
 
 ---
 
-<h3> 🔥 &nbsp;Recent Contributions</h3>
-
-- **266 contributions in the last year**  
-- Active repositories include:  
-  - [`conwrite.ai`](https://github.com/AnasAAhmed/conwrite.ai) – 6 commits in October 2025  
-  - Continuous work on eCommerce, social media, and AI-powered apps  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasAAhmed&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anas-a-ahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anas%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://anasahmed-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio?style=flat-square&logo=gmail"></a>
 <a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
