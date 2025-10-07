@@ -77,9 +77,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anas-a-ahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anas%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://anasahmed-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio?style=flat-square&logo=gmail"></a>
-<a href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a target='_blank' href="https://www.linkedin.com/in/anas-a-ahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anas%20Ahmed-blue?style=flat-square&logo=linkedin"></a>
+<a target='_blank' href="https://anasahmed-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=Portfolio"></a>
+<a target='_blank' href="mailto:your-email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AnasAAhmed](https://github.com/AnasAAhmed)
